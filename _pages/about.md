@@ -36,18 +36,18 @@ The relevant topics are not confined to those listed above. We welcome all contr
 
 The full day workshop schedule is planned with two half-day sessions that will be split by the conference planned lunch break.
 
-Note that our tentative schedule currently has this planned for 12:30-13:30, but we will update accordingly once provided further guidance as to the standardized workshop schedule for WWW’24).
+Note that our tentative schedule currently has this planned for 12:30-13:30, but we will update accordingly once provided further guidance as to the standardized workshop schedule for WWW’24.
 
 Our program will consist of the following main components: 1) invited keynotes from experts in the field of data-centric AI coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DCAI, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions both before lunch and after the final remarks to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
 
 - Morning session
   - 08:20 - 08:40 Welcome & *Opening Remarks* 
-  - 08:40 - 09:10 *Keynote* from Academia $\rm{I}$ 
-  - 09:10 - 09:40 *Keynote* from Industry $\rm{I}$ 
+  - 08:40 - 09:10 *Keynote* from Academia $I$ 
+  - 09:10 - 09:40 *Keynote* from Industry $I$ 
   - 09:40 - 10:10 Contributed *Research Oral Talks*
   - 10:10 - 10:30 *Coffee break* / Social Networking
-  - 10:30 - 11:00 *Keynote* from Academia $\rm{II}$ 
-  - 11:00 - 11:30 *Keynote* from Industry $\rm{II}$ 
-  - 11:30 - 12:00 *Keynote* from Industry $\rm{III}$ 
+  - 10:30 - 11:00 *Keynote* from Academia $II$ 
+  - 11:00 - 11:30 *Keynote* from Industry $II$ 
+  - 11:30 - 12:00 *Keynote* from Industry $III$ 
   - 12:00 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
