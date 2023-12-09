@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: WWW’24 Workshop Proposal DCAI Data-centric Artificial Intelligence
 ---
