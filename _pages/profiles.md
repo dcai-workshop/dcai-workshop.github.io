@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /organizer/
-title: Organizer
+permalink: /people/
+title: people
 description: BIO OF WORKSHOP ORGANIZERS
 nav: true
 nav_order: 4
