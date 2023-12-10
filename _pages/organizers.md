@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-### BIO OF WORKSHOP ORGANIZERS
-
 **Wei Jin** is an Assistant Professor of Computer Science at Emory University. He obtained his Ph.D. from Michigan State University in 2023. His research focuses on data-centric AI and trustworthy AI for graph data, with notable accomplishments such as Snap Research Fellowship, Most Influential Papers in KDD and WWW by Paper Digest, SDM Best Poster Award Honorable Mention, 3rd Place of Fitch H. Beach Award, and top finishes in three NeurIPS competitions. He has organized tutorials and workshops at KDD, AAAI, and SDM, and published in top-tier venues such as ICLR, KDD, ICML, and NeurIPS. He has served as (senior) program committee members at these conferences and received the WSDM Outstanding Program Committee Member award. He also organized the KDDCup Workshop at KDD’23.
 
 **Haohan Wang** is an assistant professor in the School of Information Sciences at the University of Illinois Urbana-Champaign. His research focuses on the development of trustworthy machine learning methods for computational biology and healthcare applications, such as decoding the genomic language of Alzheimer’s disease. In his work, he uses statistical analysis and deep learning methods, with an emphasis on data analysis using methods least influenced by spurious signals. Wang earned his PhD in computer science through the Language Technologies Institute of Carnegie Mellon University. In 2019, Wang was recognized as the Next Generation in Biomedicine by the Broad Institute of MIT and Harvard because of his contributions in dealing with confounding factors with deep learning.
