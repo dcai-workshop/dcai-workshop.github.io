@@ -12,7 +12,7 @@ profiles:
     content: organizer_1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><b>Wei Jin<\b></p>
+      <p>Wei Jin</p>
       <p>Assistant Professor</p>
       <p>Emory University</p>
   - align: left
@@ -20,7 +20,15 @@ profiles:
     content: organizer_2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><b>Haohan Wang<\b></p>
+      <p>Haohan Wang</p>
       <p>Assistant Professor</p>
       <p>University of Illinois Urbana-Champaign</p>
+  - align: right
+    image: yaoma.png
+    content: organizer_3.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Yao Ma</p>
+      <p>Assistant Professor</p>
+      <p>Rensselaer Polytechnic Institute</p>
 ---
