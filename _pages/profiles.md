@@ -15,7 +15,6 @@ profiles:
       <p>Wei Jin</p>
       <p>Assistant Professor</p>
       <p>Emory University</p>
-    
   - align: left
     image: haohanwang.jpg
     content: organizer_2.md
@@ -24,7 +23,6 @@ profiles:
       <p>Haohan Wang</p>
       <p>Assistant Professor</p>
       <p>University of Illinois Urbana-Champaign</p>
-    
   - align: right
     image: yaoma.png
     content: organizer_3.md
@@ -33,7 +31,6 @@ profiles:
       <p>Yao Ma</p>
       <p>Assistant Professor</p>
       <p>Rensselaer Polytechnic Institute</p>
-    
   - align: left
     image: DcZ.png
     content: organizer_4.md
@@ -42,7 +39,6 @@ profiles:
       <p>Daochen Zha</p>
       <p>Engineer</p>
       <p>Airbnb</p>
-    
   - align: right
     image: QyT.png
     content: organizer_5.md
@@ -51,7 +47,6 @@ profiles:
       <p>Qiaoyu Tan</p>
       <p>Assistant Professor</p>
       <p>New York University Shanghai</p>
-    
   - align: left
     image: SYL.jpg
     content: organizer_6.md
@@ -60,7 +55,6 @@ profiles:
       <p>Sharon Li</p>
       <p>Assistant Professor</p>
       <p>University of Wisconsin Madison</p>
-    
     - align: right
     image: SL.jpg
     content: organizer_7.md
