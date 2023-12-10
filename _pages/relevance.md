@@ -17,7 +17,7 @@ The DCAI Workshop is anticipated to attract a diverse audience, including but no
 
 We have a distinguished history of organizing impactful tutorials on Data-centric AI, with our recent endeavor at KDD2023 serving as a testament to our commitment and expertise in the field. Our tutorials, combined with our comprehensive surveys on Data-centric AI, highlight our dedication and influential stance in the rapidly evolving landscape of Data-centric AI. Our proven track record ensures that we possess the capability to garner attention and engage a wide audience. To further our outreach, we have plans in place to launch a dedicated Twitter account for the workshop, ensuring real-time updates and engagement with potential attendees. Beyond this, our advertising strategy is multifaceted. We intend to leverage various platforms, from mainstream social media like Facebook and LinkedIn to specialized platforms pertinent to our domain. Moreover, our consistent engagement with the community through various channels, and the upcoming creation of our workshop’s Twitter handle, will act as a beacon to attract interest and high-quality submissions. By integrating all these avenues, we aim to ensure maximum visibility and foster an environment conducive to knowledge-sharing and collaborative growth in the realm of Data-centric AI.
 
-### RELATED WORKSHOPS 
+### RELATED WORKSHOPS
 
 Previous workshops have addressed data-centric approaches in AI. The DMLR workshop at ICML 2023 highlighted the importance of data quality, bringing together researchers to discuss data generation, labeling, and governance. The NeurIPS 2021 Data-Centric AI Workshop focused on practical challenges in data, including collection, preprocessing, and quality evaluation. The DataPerf workshop at ICML 2022 introduced benchmarks for evaluating ML datasets, emphasizing the role of data in AI research. Our workshop differs by aiming to provide a deeper exploration of both the theoretical and practical aspects of Data-centric AI. We invite contributions ranging from Data Augmentation techniques to data-centric methods for graphs, offering a more holistic examination of DCAI for the academic community.
 
@@ -44,11 +44,11 @@ We have connected with a diverse group of scholars interested in serving as prog
 - Neil Shah, neil.shah@snap.com, Snap Research
 - Tong Zhao, tong.zhao@snap.com, Snap Research
 - William Shiao, wshia002@ucr.edu, University of California Riverside
-- Yozen Liu, yliu2@snap.com. Snap Research 
+- Yozen Liu, yliu2@snap.com. Snap Research
 
 In addition, we will also invite senior PhD students from Emory University, University of Illinois Urbana-Champaign, New York University Shanghai, Rensselaer Polytechnic Institute, University of Wisconsin Madison, and University of Washington.
 
-### PLAN TO ENHANCE DIVERSITY 
+### PLAN TO ENHANCE DIVERSITY
 
 **Team Diversity**: Our organizing team combines academic scholars and industry practitioners, fostering diversity of thought and experience. We are proud to include two accomplished female scholars, further emphasizing our commitment to diversity and inclusivity.
 
