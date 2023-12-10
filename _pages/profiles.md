@@ -55,4 +55,12 @@ profiles:
       <p>Sharon Li</p>
       <p>Assistant Professor</p>
       <p>University of Wisconsin Madison</p>
+  - align: right
+    image: SL.jpg
+    content: organizer_7.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Su-In Lee</p>
+      <p>Paul G. Allen Professor</p>
+      <p>UW</p>
 ---
