@@ -52,7 +52,7 @@ In addition, we will also invite senior PhD students from Emory University, Univ
 
 **Team Diversity**: Our organizing team combines academic scholars and industry practitioners, fostering diversity of thought and experience. We are proud to include two accomplished female scholars, further emphasizing our commitment to diversity and inclusivity.
 
-​	We recognize that diverse participant backgrounds contribute to richer discussions at our workshop. As a result, we especially encourage participants from backgrounds that are under-represented in the WWW community to participate our workshop. To attract diverse participants, we plan to implement the following strategies: 
+We recognize that diverse participant backgrounds contribute to richer discussions at our workshop. As a result, we especially encourage participants from backgrounds that are under-represented in the WWW community to participate our workshop. To attract diverse participants, we plan to implement the following strategies: 
 
 **Reaching Out to Universities**: Our team is composed of members from diverse universities who have experience collaborating with people from different regions. We plan to leverage our expertise to partner with universities in various regions and promote the workshop to their students. We can reach out to faculty members who teach data science and related courses to encourage their students to participate in this workshop.
 
