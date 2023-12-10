@@ -12,7 +12,15 @@ profiles:
     content: organizer_1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Wei Jin</p>
+      <p><b>Wei Jin<\b></p>
       <p>Assistant Professor</p>
       <p>Emory University</p>
+    - align: left
+    image: haohanwang.jpg
+    content: organizer_2.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Haohan Wang<\b></p>
+      <p>Assistant Professor</p>
+      <p>University of Illinois Urbana-Champaign</p>
 ---
