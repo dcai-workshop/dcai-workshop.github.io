@@ -12,7 +12,7 @@ profiles:
     content: organizer_1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Wei Jin</p>
+      <p>Wei Jin<\br></p>
       <p>Assistant Professor</p>
       <p>Emory University</p>
   - align: left
@@ -28,7 +28,15 @@ profiles:
     content: organizer_3.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Yao Ma</p>
+      <p>Yao Ma<\br></p>
       <p>Assistant Professor</p>
       <p>Rensselaer Polytechnic Institute</p>
+  - align: left
+    image: DcZ.png
+    content: organizer_4.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Daochen Zha</p>
+      <p>Engineer</p>
+      <p>Airbnb</p>
 ---
