@@ -16,7 +16,7 @@ footer_text: >
 keywords: Data-centric AI, Data Augmentation, Data Selection, Data Reduction, Data Evaluation, Data Optimization
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ☃ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐲 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dcai-workshop.github.io
 baseurl:
