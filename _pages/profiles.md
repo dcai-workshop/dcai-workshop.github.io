@@ -47,4 +47,12 @@ profiles:
       <p>Qiaoyu Tan</p>
       <p>Assistant Professor</p>
       <p>New York University Shanghai</p>
+  - align: left
+    image: SYL.jpg
+    content: organizer_6.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Sharon Li</p>
+      <p>Assistant Professor</p>
+      <p>University of Wisconsin Madison</p>
 ---
