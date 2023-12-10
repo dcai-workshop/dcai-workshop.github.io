@@ -1,26 +1,72 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /organizer/
+title: Organizer
+description: BIO OF WORKSHOP ORGANIZERS
 nav: true
 nav_order: 4
 
 profiles:
   - align: right
-    image: prof_pic.jpg
+    image: WJ.jpg
     content: organizer_1.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Wei Jin</p>
+      <p>Assistant Professor</p>
+      <p>Emory University</p>
+    
   - align: left
-    image: prof_pic.jpg
+    image: haohanwang.jpg
     content: organizer_2.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Haohan Wang</p>
+      <p>Assistant Professor</p>
+      <p>University of Illinois Urbana-Champaign</p>
+    
+  - align: right
+    image: yaoma.png
+    content: organizer_3.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Yao Ma</p>
+      <p>Assistant Professor</p>
+      <p>Rensselaer Polytechnic Institute</p>
+    
+  - align: left
+    image: DcZ.png
+    content: organizer_4.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Daochen Zha</p>
+      <p>Engineer</p>
+      <p>Airbnb</p>
+    
+  - align: right
+    image: QyT.png
+    content: organizer_5.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Qiaoyu Tan</p>
+      <p>Assistant Professor</p>
+      <p>New York University Shanghai</p>
+    
+  - align: left
+    image: SYL.jpg
+    content: organizer_6.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Sharon Li</p>
+      <p>Assistant Professor</p>
+      <p>University of Wisconsin Madison</p>
+    
+    - align: right
+    image: SL.jpg
+    content: organizer_7.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Su-In Lee</p>
+      <p>Paul G. Allen Professor</p>
+      <p>UW</p>
 ---
