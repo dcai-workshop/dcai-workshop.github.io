@@ -4,7 +4,7 @@ permalink: /relevance/
 title: Relevance
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ### RELEVANCE TO WWW’24 AND AUDIENCE 
