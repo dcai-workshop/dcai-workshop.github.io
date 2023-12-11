@@ -64,5 +64,3 @@ profiles:
       <p>Paul G. Allen Professor</p>
       <p>UW</p>
 ---
-#### Web Chair of this workshop
-[Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute
