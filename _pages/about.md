@@ -35,3 +35,4 @@ The relevant topics are not confined to those listed above. We welcome all contr
 ### WEB CHAIR
 [Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute
 <!-- to be added -->
+Mohammad Hashemi
