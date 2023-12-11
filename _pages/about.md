@@ -32,7 +32,7 @@ We enthusiastically invite submissions that focus on recent breakthroughs in the
 
 The relevant topics are not confined to those listed above. We welcome all contributions that are pertinent to the WWW community, with a focus on developing, iterating, and maintaining data to drive its advancement and help build better AI algorithms.
 
-### WEB CHAIR
+### WEB CHAIRS
 [Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute.
 
 <!-- to be added -->
