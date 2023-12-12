@@ -63,9 +63,9 @@ profiles:
       <p>Paul G. Allen Professor</p>
       <p>UW</p>
 ---
+
 ### WEB CHAIRS
 
 [Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute.
 
-<!-- to be added -->
-Mohammad Hashemi
+[Mohammad Hashemi](https://mohammadhashemii.github.io/), PhD Student, Emory University.
