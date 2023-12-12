@@ -6,7 +6,7 @@ subtitle: WWW’24 Workshop Proposal DCAI Data-centric Artificial Intelligence
 ---
 
 <p align="center">
-  <img src="../assets/img/WWW24.png" alt="Workshop Image">
+  <img src="../assets/img/WWW24.png" alt="Workshop Image" style="width: 100%">
 </p>
 
 ### ABSTRACT
