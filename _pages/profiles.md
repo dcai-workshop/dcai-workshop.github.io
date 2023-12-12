@@ -63,6 +63,9 @@ profiles:
       <p>Paul G. Allen Professor</p>
       <p>UW</p>
 ---
-### Head3
+### WEB CHAIRS
 
-test
+[Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute.
+
+<!-- to be added -->
+Mohammad Hashemi
