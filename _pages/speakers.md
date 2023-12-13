@@ -1,11 +1,10 @@
 ---
 
 layout: profiles
-permalink: /people/
-title: Organizer
-description: BIO OF WORKSHOP ORGANIZERS
+permalink: /speakers/
+title: Speakers
+description: BIO OF INVITED SPEAKERS
 nav: true
-nav_order: 3
 profiles:
 
 - align: left
