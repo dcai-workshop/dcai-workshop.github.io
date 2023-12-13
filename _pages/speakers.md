@@ -10,7 +10,7 @@ profiles:
 
 - align: left
 
-# image: SS.jpg
+image: SS.jpg
 
-content: organizer_1.md
+content: spkeaker_1.md
 image_circular: false # crops the image to make it circular
