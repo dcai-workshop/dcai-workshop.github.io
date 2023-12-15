@@ -44,4 +44,12 @@ All submissions must be uploaded electronically to EasyChair at: Submission Link
 
 At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
 
-For questions regarding submissions, please contact us at: mohammad.hashemi@emory.edu
+For questions regarding submissions, please contact us at: **[mohammad.hashemi@emory.edu](mailto:mohammad.hashemi@emory.edu)**
+
+### Important Dates
+
+The important dates of the workshop should not be later than:
+
+- Workshop paper submission: **February 5, 2024** (recommended)
+- Workshop paper notification: **March 4, 2024**(recommended)
+- Workshop paper camera-ready: **March 11, 2024** (FIRM)
