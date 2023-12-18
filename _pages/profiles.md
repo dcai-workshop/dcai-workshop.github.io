@@ -69,3 +69,5 @@ profiles:
 [Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute.
 
 [Mohammad Hashemi](https://mohammadhashemii.github.io/), PhD Student, Emory University.
+
+[Kai Wang](http://kaiwang960112.github.io), PhD Student, National University of Singapore.
