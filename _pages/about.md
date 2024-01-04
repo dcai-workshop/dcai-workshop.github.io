@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: Call for Papers
 permalink: /
 subtitle: WWW’24 Workshop Proposal DCAI Data-centric Artificial Intelligence
 ---
@@ -15,13 +15,13 @@ The emergence of Data-centric AI (DCAI) represents a pivotal shift in AI develop
 
 ### OBJECTIVES
 
-Data-centric AI (DCAI) is a burgeoning concept that shifts our attention from advancing model design towards the pursuit of data excellence, which marks a significant surge in recognizing the crucial importance of data in the realm of AI. In the past, AI was predominantly viewed through a model-centric lens, with a primary focus on refining model designs to boost AI performance using fixed datasets. However, this approach tends to neglect potential data imperfections, such as missing values, incorrect labels, and anomalies. This raises the critical question of whether the numerous enhancements in model performance authentically reflect the model’s true potential, or if they are merely a consequence of overfitting to the dataset. DCAI represents an emerging frontier that complements existing efforts, underscoring the systematic engineering of data in AI development1 , and plays an increasingly important role in propelling AI to success.
+Data-centric AI (DCAI) is a burgeoning concept that shifts our attention from advancing model design towards the pursuit of data excellence, which marks a significant surge in recognizing the crucial importance of data in the realm of AI. In the past, AI was predominantly viewed through a model-centric lens, with a primary focus on refining model designs to boost AI performance using fixed datasets. However, this approach tends to neglect potential data imperfections, such as missing values, incorrect labels, and anomalies. This raises the critical question of whether the numerous enhancements in model performance authentically reflect the model’s true potential, or if they are merely a consequence of overfitting to the dataset. DCAI represents an emerging frontier that complements existing efforts, underscoring the systematic engineering of data in AI development, and plays an increasingly important role in propelling AI to success.
 
-The transition to DCAI has ignited a wave of innovation in machine learning and data mining algorithms. These encompass a spectrum of cutting-edge techniques such as graph learning, trustworthy machine learning, and Large Language Models (LLMs) . These advancements have found applications not only in computer science but have also permeated diverse domains including finance, information systems, mechanical engineering, robotic, and beyond. In this workshop, our objective is to delve into the recent advances in both the theoretical underpinnings and practical applications of DCAI.
+The transition to DCAI has ignited a wave of innovation in machine learning and data mining algorithms. These encompass a spectrum of cutting-edge techniques such as graph learning, trustworthy machine learning, and Large Language Models (LLMs). These advancements have found applications not only in computer science but have also permeated diverse domains including finance, information systems, mechanical engineering, robotics, and beyond. In this workshop, our objective is to delve into the recent advances in both the theoretical underpinnings and practical applications of DCAI.
 
 ### TOPICS
 
-We enthusiastically invite submissions that focus on recent breakthroughs in the research and development of DCAI, coupled with their real-world applications. Contributions in the form of theory, methodology, and application papers are encouraged from areas including but not limited to:
+We enthusiastically invite submissions that focus on recent breakthroughs in the research and development of DCAI, coupled with their real-world applications. Contributions in the form of theory, methodology, and application papers are encouraged from areas **including but not limited to**:
 
 - Data Augmentation Methods
 - Efficient Data Labeling Methods
