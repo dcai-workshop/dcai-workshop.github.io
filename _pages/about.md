@@ -45,7 +45,7 @@ We invite both long research papers (5-10 pages) and short research/application 
 
 The best paper (according to the reviewers' ratings and organizing committee) will be announced at the end of the workshop.
 
-All submissions must be uploaded electronically to EasyChair at: **[Click this link](https://easychair.org/conferences/submissions?a=31988140)**.
+All submissions must be uploaded electronically to EasyChair at: **[Click this link](https://easychair.org/my/conference?conf=thewebconf2024_workshops)**.
 
 At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
 
