@@ -9,7 +9,7 @@ subtitle: WWW’24 Workshop Proposal DCAI Data-centric Artificial Intelligence
   <img src="../assets/img/WWW24.png" alt="Workshop Image" style="width: 100%">
 </p>
 
-### ABSTRACT
+### Overview
 
 The emergence of Data-centric AI (DCAI) represents a pivotal shift in AI development, redirecting focus from model refinement to prioritizing data quality. This paradigmatic transition emphasizes the critical role of data in AI. While past approaches centered on refining models, they often overlooked potential data imperfections, raising questions about the true potential of enhanced model performance. DCAI advocates the systematic engineering of data, complementing existing efforts and playing a vital role in driving AI success. This transition has spurred innovation in various machine learning and data mining algorithms and their applications on the Web. Therefore, we propose the DCAI Workshop at WWW’24, which offers a platform for academic researchers and industry practitioners to showcase the latest advancements in DCAI research and their practical applications in the real world.
 
@@ -38,9 +38,14 @@ The relevant topics are not confined to those listed above. We welcome all contr
 
 ### Submission Details
 
-We invite both long research papers (5-10 pages) and short research/application papers (2-4 pages) including references. All submissions must be in PDF format and formatted according to the new ACM format published in [ACM guidelines](https://www.acm.org/publications/proceedings-template) (e.g., using the ACM LaTeX template on Overleaf [here](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ)) and selecting the "sigconf" sample. Following the WWW'24 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible. Accepted papers will be posted on this workshop website and will not appear in the WWW'24 proceedings and are thus non-archival (allowing you to submit works to DCAI at WWW'24 even if they are current under review elsewhere). The best paper (according to the reviewers' ratings and organizing committee) will be announced at the end of the workshop.
+We invite both long research papers (5-10 pages) and short research/application papers (2-4 pages) including references. All submissions must be in PDF format and formatted according to the new ACM format published in [ACM guidelines](https://www.acm.org/publications/proceedings-template) (e.g., using the ACM LaTeX template on Overleaf [here](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ)) and selecting the "sigconf" sample. Following the WWW'24 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible. 
 
-All submissions must be uploaded electronically to EasyChair at: Submission Link Coming Soon.
+**Accepted papers will be posted on this workshop website. <ins> By default, accepted papers will not appear in the WWW'24 proceedings and are thus non-archival. This allows authors to submit works that are concurrently under review elsewhere or published.</ins> However, authors also have the option to choose archival status, in which case the paper will be included in the official proceeding.**
+
+
+The best paper (according to the reviewers' ratings and organizing committee) will be announced at the end of the workshop.
+
+All submissions must be uploaded electronically to EasyChair at: **[Click this link](https://easychair.org/conferences/submissions?a=31988140)**.
 
 At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
 
@@ -50,6 +55,6 @@ For questions regarding submissions, please contact us at: **[mohammad.hashemi@e
 
 The important dates of the workshop should not be later than:
 
-- Workshop paper submission: **February 5, 2024** (recommended)
-- Workshop paper notification: **March 4, 2024**(recommended)
+- Workshop paper submission: **February 15, 2024** 
+- Workshop paper notification: **March 4, 2024**
 - Workshop paper camera-ready: **March 11, 2024** (FIRM)
