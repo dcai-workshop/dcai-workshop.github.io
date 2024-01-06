@@ -57,6 +57,6 @@ For questions regarding submissions, please contact us at: **[mohammad.hashemi@e
 
 The important dates of the workshop should not be later than:
 
-- Workshop paper submission: **February 15, 2024** 
+- Workshop paper submission: **February 10, 2024** 
 - Workshop paper notification: **March 4, 2024**
 - Workshop paper camera-ready: **March 11, 2024** (FIRM)
