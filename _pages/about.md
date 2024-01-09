@@ -50,7 +50,7 @@ All submissions must be uploaded electronically to EasyChair at: **[Click this l
 
 At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
 
-For questions regarding submissions, please contact us at: **[mohammad.hashemi@emory.edu](mailto:mohammad.hashemi@emory.edu)**
+For questions regarding submissions, please contact us at: **[liangliangz6v6@gmail.com](liangliangz6v6@gmail.com) and [mohammad.hashemi@emory.edu](mailto:mohammad.hashemi@emory.edu)**
 
 
 ### Important Dates
