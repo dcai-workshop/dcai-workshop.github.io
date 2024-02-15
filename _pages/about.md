@@ -54,8 +54,11 @@ For questions regarding submissions, please contact us at: **[liangliangz6v6@gma
 
 ### Important Dates
 
-The important dates of the workshop should not be later than:
+The important dates of the workshop should not be later than: 
 
 - Workshop paper submission: **~~February 10~~ February 15, 2024** 
 - Workshop paper notification: **March 4, 2024**
 - Workshop paper camera-ready: **March 11, 2024** (FIRM)
+
+
+All submission deadlines are end-of-day in the **Anywhere on Earth (AoE)** time zone.
