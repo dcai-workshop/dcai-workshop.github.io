@@ -61,4 +61,4 @@ The important dates of the workshop should not be later than:
 - Workshop paper camera-ready: **March 11, 2024** (FIRM)
 
 
-All submission deadlines are end-of-day in the **Anywhere on Earth (AoE)** time zone.
+All submission deadlines are end-of-day in the **[Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)** time zone.
