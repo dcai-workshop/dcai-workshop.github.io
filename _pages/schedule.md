@@ -14,23 +14,22 @@ Note that our tentative schedule currently has this planned for 12:30-13:30, but
 Our program will consist of the following main components: 1) invited keynotes from experts in the field of data-centric AI coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DCAI, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions both before lunch and after the final remarks to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
 
 - Morning session
-  - 09:10 - 09:20 Welcome & *Opening Remarks* 
-  - 09:20 - 09:40 *Keynote* from Academia Ⅰ 
-  - 09:40 - 10:00 *Keynote* from Industry Ⅰ
-  - 10:00 - 10:20 *Keynote* from Academia Ⅱ 
-  - 10:20 - 10:50 *Coffee break* / Social Networking
+  - 09:00 - 09:10 Welcome & *Opening Remarks* 
+  - 09:10 - 09:35 *Keynote* from Academia Ⅰ 
+  - 09:35 - 10:00 *Keynote* from Industry Ⅰ
+  - 10:00 - 10:25 *Keynote* from Academia Ⅱ 
+  - 10:30 - 11:00 *Coffee break* / Social Networking
   - 10:50 - 11:10 *Keynote* from Industry Ⅱ 
   - 11:10 - 12:00 Contributed *Research Oral Talks*
   - 12:00 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
 - Afternoon session 
-  - 13:30 - 13:50 *Keynote* from Academia Ⅲ
-  - 13:50 - 14:10 *Keynote* from Academia Ⅲ
-  - 14:10 - 14:30 Contributed *Research Oral Talks*
-  - 14:30 - 14:50 *Coffee break* / Social Networking
-  - 14:50 - 15:20 Contributed *Research Oral Talks*
-  - 15:20 - 15:50 Future Directions *Panel* (Keynote Speakers)
-  - 15:50 - 16:00 Best Paper Award Ceremony & *Final Remarks*
+  - 13:30 - 13:55 *Keynote* from Academia Ⅲ
+  - 13:55 - 14:20 *Keynote* from Industry Ⅲ
+  - 14:20 - 15:00 Contributed *Research Oral Talks*
+  - 15:00 - 15:30 *Coffee break* / Social Networking
+  - 15:30 - 15:50 Contributed *Research Oral Talks*
+  - 15:50 - 16:00 *Final Remarks*
   - 16:00 - 17:00 Contributed *Research Poster Session*
 
 **Panel.** Our anticipation is to have a panel as the final component of the workshop before the last poster session, best paper award ceremony, and final remarks. The panelists will be a subset of our keynote speakers and organizers and will focus on the future directions in the area of machine learning on graphs. We believe this is the most fitting formal final component of the workshop and hope that it will help stimulate conversions at the end during the post session consisting of contributed research to the workshop.
