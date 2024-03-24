@@ -14,19 +14,19 @@ Note that our tentative schedule currently has this planned for 12:30-13:30, but
 Our program will consist of the following main components: 1) invited keynotes from experts in the field of data-centric AI coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DCAI, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions both before lunch and after the final remarks to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
 
 - Morning session
-  - 09:00 - 09:10 Welcome & *Opening Remarks* 
-  - 09:10 - 09:35 *Keynote* from Academia Ⅰ 
-  - 09:35 - 10:00 *Keynote* from Industry Ⅰ
-  - 10:00 - 10:25 *Keynote* from Academia Ⅱ 
-  - 10:30 - 11:00 *Coffee break* / Social Networking
-  - 10:50 - 11:10 *Keynote* from Industry Ⅱ 
-  - 11:10 - 12:00 Contributed *Research Oral Talks*
+  - 09:00 - 09:05 Welcome & *Opening Remarks* 
+  - 09:05 - 09:35 *Keynote* from Academia Ⅰ 
+  - 09:35 - 10:05 *Keynote* from Industry Ⅰ
+  - 10:05 - 10:35 *Keynote* from Academia Ⅱ 
+  - 10:35 - 11:05 *Coffee break* / Social Networking
+  - 11:05 - 11:35 *Keynote* from Industry Ⅱ 
+  - 11:35 - 12:00 Contributed *Research Oral Talks*
   - 12:00 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
 - Afternoon session 
-  - 13:30 - 13:55 *Keynote* from Academia Ⅲ
-  - 13:55 - 14:20 *Keynote* from Industry Ⅲ
-  - 14:20 - 15:00 Contributed *Research Oral Talks*
+  - 13:30 - 14:00 *Keynote* from Academia Ⅲ
+  - 14:00 - 14:30 *Keynote* from Industry Ⅲ
+  - 14:30 - 15:00 Contributed *Research Oral Talks*
   - 15:00 - 15:30 *Coffee break* / Social Networking
   - 15:30 - 15:50 Contributed *Research Oral Talks*
   - 15:50 - 16:00 *Final Remarks*
