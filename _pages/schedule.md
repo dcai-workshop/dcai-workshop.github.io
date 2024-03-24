@@ -20,19 +20,21 @@ Our program will consist of the following main components: 1) invited keynotes f
   - 10:05 - 10:35 *Keynote* from Academia Ⅱ 
   - 10:35 - 11:05 *Coffee break* / Social Networking
   - 11:05 - 11:35 *Keynote* from Industry Ⅱ 
-  - 11:35 - 12:00 Contributed *Research Oral Talks*
-  - 12:00 - 12:30 Contributed *Research Poster Session*
+  - 11:35 - 11:55 Contributed *Research Oral Talks*
+  - 11:55 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
 - Afternoon session 
   - 13:30 - 14:00 *Keynote* from Academia Ⅲ
   - 14:00 - 14:30 *Keynote* from Industry Ⅲ
   - 14:30 - 15:00 Contributed *Research Oral Talks*
   - 15:00 - 15:30 *Coffee break* / Social Networking
-  - 15:30 - 15:50 Contributed *Research Oral Talks*
-  - 15:50 - 16:00 *Final Remarks*
-  - 16:00 - 17:00 Contributed *Research Poster Session*
+  - 15:30 - 16:20 Contributed *Research Oral Talks*
+  - 16:20 - 16:25 *Final Remarks*
+  - 16:25 - 17:10 Contributed *Research Poster Session*
 
+<!--
 **Panel.** Our anticipation is to have a panel as the final component of the workshop before the last poster session, best paper award ceremony, and final remarks. The panelists will be a subset of our keynote speakers and organizers and will focus on the future directions in the area of machine learning on graphs. We believe this is the most fitting formal final component of the workshop and hope that it will help stimulate conversions at the end during the post session consisting of contributed research to the workshop.
+-->
 
 #### Selection Process 
 
