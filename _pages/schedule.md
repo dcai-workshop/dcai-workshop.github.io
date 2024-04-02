@@ -21,7 +21,7 @@ Our program will consist of the following main components: 1) invited keynotes f
   - 10:32 - 11:00 *Coffee break* / Social Networking
   - 11:00 - 11:30 *Keynote* from Academia Ⅱ 
   - 11:30 - 12:00 *Keynote* from Industry Ⅱ 
-  - 11:57 - 12:30 Contributed *Research Poster Session*
+  - 12:00 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
 - Afternoon session 
   - 13:30 - 14:00 *Keynote* from Academia Ⅲ
