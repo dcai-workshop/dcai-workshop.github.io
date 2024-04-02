@@ -18,10 +18,10 @@ Our program will consist of the following main components: 1) invited keynotes f
   - 09:05 - 09:35 *Keynote* from Academia Ⅰ 
   - 09:35 - 10:05 *Keynote* from Industry Ⅰ
   - 10:05 - 10:35 *Keynote* from Academia Ⅱ 
-  - 10:35 - 11:05 *Coffee break* / Social Networking
-  - 11:05 - 11:35 *Keynote* from Industry Ⅱ 
-  - 11:35 - 11:55 Contributed *Research Oral Talks*
-  - 11:55 - 12:30 Contributed *Research Poster Session*
+  - 10:35 - 11:00 *Coffee break* / Social Networking
+  - 11:00 - 11:30 *Keynote* from Industry Ⅱ 
+  - 11:30 - 11:57 Contributed *Research Oral Talks*
+  - 11:57 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
 - Afternoon session 
   - 13:30 - 14:00 *Keynote* from Academia Ⅲ
@@ -33,14 +33,14 @@ Our program will consist of the following main components: 1) invited keynotes f
   - 16:25 - 17:10 Contributed *Research Poster Session*
 
 <!--
-**Panel.** Our anticipation is to have a panel as the final component of the workshop before the last poster session, best paper award ceremony, and final remarks. The panelists will be a subset of our keynote speakers and organizers and will focus on the future directions in the area of machine learning on graphs. We believe this is the most fitting formal final component of the workshop and hope that it will help stimulate conversions at the end during the post session consisting of contributed research to the workshop.
+**Panel.** Our anticipation is to have a panel as the final component of the workshop before the last poster session, best paper award ceremony, and final remarks. The panelists will be a subset of our keynote speakers and organizers and will focus on the future directions in the area of machine learning on graphs. We believe this is the most fitting formal final component of the workshop and hope that it will help stimulate conversions at the end during the post-session consisting of contributed research to the workshop.
 -->
 
 #### Selection Process 
 
-Each of the eight invited keynote speakers from both academia and industry (four each) are planned to be well recognized in the WWW community, especially in the subcommunity focused on data-centric AI. Some of the invited keynote speakers we have already agreed upon and they have accepted conditional on the acceptance of our proposed data-centric AI (DCAI) workshop at WWW’24. The remaining keynote speakers will be selected by the DCAI organization committee and will ensure a balanced distribution of those coming from industry and academia. Additionally, we note that each keynote will be presented as a lecture with slides and there will be a short Q/A session at the end of each keynote.
+The six invited keynote speakers from both academia and industry (three each) are planned to be well recognized in the WWW community, especially in the subcommunity focused on data-centric AI. We note that each keynote will be presented as a lecture with slides and there will be a short Q/A session at the end of each keynote.
 
-This workshop CFP is for paper submissions that will undergo the standard double-blind peer-review process. We will invite a well experienced set of program committee members for DCAI to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection to DCAI at WWW’24 will be made by the workshop organizers.
+This workshop CFP is for paper submissions that will undergo the standard double-blind peer-review process. We will invite a well-experienced set of program committee members for DCAI to first guarantee each paper submission will be reviewed by at least two PC members and second to ensure an informed and fair evaluation of the work being submitted. Based upon the reviews provided by PC members, the final recommendation of acceptance or rejection to DCAI at WWW’24 will be made by the workshop organizers.
 
 The detailed review comments and notification letter will be sent to the authors accordingly along with detailed information as to whether they have been accepted for an oral or poster presentation (as noted above in the tentative workshop schedule).
 
