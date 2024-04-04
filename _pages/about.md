@@ -36,10 +36,9 @@ We enthusiastically invite submissions that focus on recent breakthroughs in the
 
 The relevant topics are not confined to those listed above. We welcome all contributions that are pertinent to the WWW community, with a focus on developing, iterating, and maintaining data to drive its advancement and help build better AI algorithms.
 
-
 ### Submission Details
 
-We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new ACM format published in [ACM guidelines](https://www.acm.org/publications/proceedings-template) (e.g., using the ACM LaTeX template on Overleaf [here](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ)) and selecting the "sigconf" sample. Following the WWW'24 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible. 
+We welcome submissions of papers ranging from 4 to 8 pages as main content, with up to 2 additional pages containing references and an optional appendix. All submissions must be in PDF format and formatted according to the new ACM format published in [ACM guidelines](https://www.acm.org/publications/proceedings-template) (e.g., using the ACM LaTeX template on Overleaf [here](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ)) and selecting the "sigconf" sample. Following the WWW'24 conference submission policy, reviews are double-blind, and author names and affiliations should NOT be listed. Submitted works will be assessed based on their novelty, technical quality, potential impact, and clarity of writing (and should be in English). For papers that primarily rely on empirical evaluations, the experimental settings and results should be clearly presented and repeatable. We encourage authors to make data and code available publicly when possible.
 
 **Accepted papers will be posted on this workshop website. <ins> By default, accepted papers will not appear in the WWW'24 proceedings and are thus non-archival. This allows authors to submit works that are concurrently under review elsewhere or published.</ins> However, authors also have the option to choose archival status, in which case the paper will be included in the official proceeding. Please send us an email in advance if you would like to include the accepted paper in the official proceeding.**
 
@@ -51,14 +50,13 @@ At least one of the authors of the accepted workshop papers must register for th
 
 For questions regarding submissions, please contact us at: **[liangliangz6v6@gmail.com](liangliangz6v6@gmail.com) and [mohammad.hashemi@emory.edu](mailto:mohammad.hashemi@emory.edu)**
 
-
 ### Important Dates
 
-The important dates of the workshop should not be later than: 
+The important dates of the workshop should not be later than:
 
-- Workshop paper submission: **~~February 10~~ February 15, 2024** 
+- Workshop paper submission: **~~February 10~~ February 15, 2024**
 - Workshop paper notification: **March 4, 2024**
 - Workshop paper camera-ready: **March 11, 2024** (FIRM)
-
+- Workshop date: **May 13, 2024**
 
 All submission deadlines are end-of-day in the **[Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)** time zone.
