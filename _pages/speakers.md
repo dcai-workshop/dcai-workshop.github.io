@@ -14,7 +14,7 @@ profiles:
       <p>Jerone Andrews </p>
       <p>Research Scientist</p>
       <p>@ Sony</p>
-      <p>[9:05-9:35 | Virtual]</p>
+    #   <p>[9:05-9:35 | Virtual]</p>
   - align: right
     image: JAF.jpeg
     content: speaker_2.md
@@ -23,7 +23,7 @@ profiles:
       <p>Jason Fries</p>
       <p>Research Scientist</p>
       <p>@ Stanford University</p>
-      <p>[9:35-10:05 | Virtual]</p>
+    #   <p>[9:35-10:05 | Virtual]</p>
   - align: left
     image: BL.jpg
     content: speaker_3.md
