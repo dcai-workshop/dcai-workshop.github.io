@@ -15,7 +15,7 @@ Our program will consist of the following main components: 1) invited keynotes f
 
 - Morning session
   - 09:00 - 09:05 Welcome & *Opening Remarks* 
-  - 09:05 - 09:35 *Keynote* from Industry Ⅰ 
+  - 09:05 - 09:35 *Keynote* from Industry Ⅰ ()
   - 09:35 - 10:05 *Keynote* from Academia Ⅰ
   - 10:05 - 10:32 Contributed *Research Oral Talks*
   - 10:32 - 11:00 *Coffee break* / Social Networking
