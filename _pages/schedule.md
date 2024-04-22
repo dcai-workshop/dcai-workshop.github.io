@@ -15,17 +15,17 @@ Our program will consist of the following main components: 1) invited keynotes f
 
 - Morning session
   - 09:00 - 09:05 Welcome & *Opening Remarks* 
-  - 09:05 - 09:35 *Keynote* from Industry Ⅰ ()
-  - 09:35 - 10:05 *Keynote* from Academia Ⅰ
+  - 09:05 - 09:35 *Keynote:* Ethical Considerations for Responsible Data Curation, Jerone Andrews, virtual
+  - 09:35 - 10:05 *Keynote:* Jason Fries, virtual
   - 10:05 - 10:32 Contributed *Research Oral Talks*
   - 10:32 - 11:00 *Coffee break* / Social Networking
-  - 11:00 - 11:30 *Keynote* from Academia Ⅱ 
-  - 11:30 - 12:00 *Keynote* from Industry Ⅱ 
+  - 11:00 - 11:30 *Keynote:* Bryan Kian Hsiang Low, onsite 
+  - 11:30 - 12:00 *Keynote:* Yanjie Fu, virtual
   - 12:00 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
 - Afternoon session 
-  - 13:30 - 14:00 *Keynote* from Academia Ⅲ
-  - 14:00 - 14:30 *Keynote* from Industry Ⅲ
+  - 13:30 - 14:00 *Keynote:* Graph Machine Learning beyond Message Passing: A Data Perspective, Tong Zhao, onsite
+  - 14:00 - 14:30 *Keynote:* Towards Building Reliable Multi-Modal AI Assistant, Ziwei Liu, onsite
   - 14:30 - 15:00 Contributed *Research Oral Talks*
   - 15:00 - 15:30 *Coffee break* / Social Networking
   - 15:30 - 16:20 Contributed *Research Oral Talks*
