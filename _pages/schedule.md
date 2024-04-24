@@ -16,7 +16,7 @@ Our program will consist of the following main components: 1) invited keynotes f
 - Morning session
   - 09:00 - 09:05 Welcome & *Opening Remarks* 
   - 09:05 - 09:35 *Keynote:* Ethical Considerations for Responsible Data Curation, Jerone Andrews, virtual
-  - 09:35 - 10:05 *Keynote:* Jason Fries, virtual
+  - 09:35 - 10:05 *Keynote:* Uncharted: The Road to Data-Centric Benchmarking for Medical Foundation Models, Jason Fries, virtual
   - 10:05 - 10:32 Contributed *Research Oral Talks*
   - 10:32 - 11:00 *Coffee break* / Social Networking
   - 11:00 - 11:30 *Keynote:* Bryan Kian Hsiang Low, onsite 
