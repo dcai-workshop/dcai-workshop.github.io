@@ -19,7 +19,7 @@ Our program will consist of the following main components: 1) invited keynotes f
   - 09:35 - 10:05 *Keynote:* Uncharted: The Road to Data-Centric Benchmarking for Medical Foundation Models, Jason Fries, virtual
   - 10:05 - 10:32 Contributed *Research Oral Talks*
   - 10:32 - 11:00 *Coffee break* / Social Networking
-  - 11:00 - 11:30 *Keynote:* Bryan Kian Hsiang Low, onsite 
+  - 11:00 - 11:30 *Keynote:* Data-Centric AI in the Age of Large Language Models, Bryan Kian Hsiang Low, onsite 
   - 11:30 - 12:00 *Keynote:* Data-Centric AI: Unlock the Power of Feature Space, Yanjie Fu, virtual
   - 12:00 - 12:30 Contributed *Research Poster Session*
 - Lunch Break (12:30 - 13:30)
