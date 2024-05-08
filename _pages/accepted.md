@@ -15,7 +15,7 @@ We have a total of 11 oral presentations scheduled, and all oral/poster papers m
   - 11:30 - 12:00 GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation. [pdf](../assets/pdf/accepted_papers/94.pdf)
   - 14:30 - 15:00 SubLIME: Less is More for LLM Evaluation. [pdf](../assets/pdf/accepted_papers/106.pdf)
   - 14:30 - 15:00 CURATON: Clean Human Preference Data for Aligning LLMs. [pdf](../assets/pdf/accepted_papers/108.pdf)
-  - 14:30 - 15:00 Improving Embedding-Based Retrieval in Friend Recommendation with ANN Query Expansion.
+  - 14:30 - 15:00 Improving Embedding-Based Retrieval in Friend Recommendation with ANN Query Expansion. [pdf](../assets/pdf/accepted_papers/112.pdf)
   - 15:30 - 16:15 LLMs and Physics Q&A: Improving Performance through Data Augmentation and Retrieval.
   - 15:30 - 16:15 Robust Data-centric Graph Structure Learning for Text Classification. [pdf](../assets/pdf/accepted_papers/15.pdf)
   - 15:30 - 16:15 Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendations. [pdf](../assets/pdf/accepted_papers/74.pdf)
