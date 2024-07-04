@@ -66,7 +66,7 @@ profiles:
 
 ### WEB CHAIRS
 
-[Liangliang Zhang](https://dami-lab.github.io/people/), PhD Student, Rensselaer Polytechnic Institute.
+[Liangliang Zhang](https://liangliang6v6.github.io/), PhD Student, Rensselaer Polytechnic Institute.
 
 [Mohammad Hashemi](https://mohammadhashemii.github.io/), PhD Student, Emory University.
 
